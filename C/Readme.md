@@ -18,3 +18,8 @@
 - [Reversenum](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/Reversenum.c)
 - [Source_code](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/Source_code.c)
 - [TESTSERIES](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/TESTSERIES.c)
+- [fibonacci](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/fibonacci.c)
+- [RECURSION](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/RECURSION.c)
+- [agecalculator](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/agecalculator.c)
+- [dec_to_binary](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/dec_to_binary.c)
+- [roman](https://github.com/CSI-SCT-SB/Extra-Mile/blob/main/C/roman.c)
